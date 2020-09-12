@@ -1,4 +1,4 @@
-[![Years Badge](https://badges.pufler.dev/years/trepichio)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/trepichio)](https://badges.pufler.dev) [![Gists Badge](https://badges.pufler.dev/gists/trepichio)](https://badges.pufler.dev) ![](https://visitor-badge.glitch.me/badge?page_id=trepichio.visitor-badge)
+[![Years Badge](https://badges.pufler.dev/years/trepichio)](https://linkedin.com/in/trepichio) [![Repos Badge](https://badges.pufler.dev/repos/trepichio)](https://github.com/trepichio?tab=repositories) [![Gists Badge](https://badges.pufler.dev/gists/trepichio)](https://gist.github.com/trepichio) ![](https://visitor-badge.glitch.me/badge?page_id=trepichio.visitor-badge)
 
 
 [<img src="./assets/intro.gif" alt="👋 Hi there! I'm João Trepichio|trepichio.github.io" title="👋 Hi there! I'm João Trepichio|trepichio.github.io"/>](https://trepichio.github.io/)
