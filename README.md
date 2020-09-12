@@ -68,8 +68,8 @@
 </div>
 
 <p align="center">
-    <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trepichio&layout=compact&hide=html" alt="trepichio" />
-    <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api?username=trepichio&show_icons=true" alt="trepichio" /></p>
+    <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trepichio&layout=compact&hide=html&hide_border=true" alt="trepichio" />
+    <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api?username=trepichio&show_icons=true&hide_border=true" alt="trepichio" /></p>
 </p>
 
 
