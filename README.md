@@ -1,7 +1,7 @@
 [![Years Badge](https://badges.pufler.dev/years/trepichio)](https://linkedin.com/in/trepichio) [![Repos Badge](https://badges.pufler.dev/repos/trepichio)](https://github.com/trepichio?tab=repositories) [![Gists Badge](https://badges.pufler.dev/gists/trepichio)](https://gist.github.com/trepichio) ![](https://visitor-badge.glitch.me/badge?page_id=trepichio.visitor-badge)
 
 
-[<img src="./assets/intro.gif" alt="👋 Hi there! I'm João Trepichio|trepichio.github.io" title="👋 Hi there! I'm João Trepichio|trepichio.github.io"/>](https://trepichio.github.io/)
+[<img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/intro.gif" alt="👋 Hi there! I'm João Trepichio|trepichio.github.io" title="👋 Hi there! I'm João Trepichio|trepichio.github.io"/>](https://trepichio.github.io/)
 
 [![GitHub Trepichio](https://img.shields.io/github/followers/trepichio?label=follow&style=social)](https://github.com/trepichio)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/trepichio)
@@ -15,7 +15,7 @@
 
 <div>
   <figure style="position: relative; float: right; margin: 1rem; min-width: 250px; max-width: 300px">
-    <img style="width: 100%; overflow: hidden;" src="./assets/code.gif" alt="fullstack developer animated image"/>
+    <img style="width: 100%; overflow: hidden;" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" alt="fullstack developer animated image"/>
   </figure>
 
   Fast learner and eager to explore new technologies.
@@ -60,7 +60,7 @@
 
 <div style="min-width:300px">
 <figure style="min-width: 300px; margin: 0">
-  <img width="100%" src="./assets/stack-hill.svg" alt="stacks"/>
+  <img width="100%" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/stack-hill.svg" alt="stacks"/>
 </figure>
 
 ## Other technologies
