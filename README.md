@@ -14,9 +14,7 @@
 **💻 full stack developer @Independent | You can hire me.**
 
 <div>
-  <figure style="position: relative; float: right; margin: 1rem; min-width: 250px; max-width: 300px">
-    <img style="width: 100%; overflow: hidden;" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" alt="fullstack developer animated image"/>
-  </figure>
+    <img align="right" width="50%" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" alt="fullstack developer animated image"/>
 
   Fast learner and eager to explore new technologies.
 
@@ -69,14 +67,11 @@
 
 </div>
 
-<div style="display: flex; flex-wrap: wrap; min-width: 300px">
-  <figure style="min-width: 150px; margin: 0; padding: 0.5rem">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trepichio&layout=compact&hide=html" alt="trepichio" />
-  </figure>
-  <figure style="min-width: 150px; margin: 0; padding: 0.5rem">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=trepichio&show_icons=true" alt="trepichio" /></p>
-  </figure>
-</div>
+<p align="center">
+    <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trepichio&layout=compact&hide=html" alt="trepichio" />
+    <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api?username=trepichio&show_icons=true" alt="trepichio" /></p>
+</p>
+
 
 
 <p align="center">
