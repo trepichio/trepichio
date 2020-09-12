@@ -41,7 +41,7 @@
 * 📌 Interests: DDD, TDD, Design and Architecture Patterns, UX, UI Design, Microservices
 * 💬 Ask me about web development, and tech related technologies.
 * 📝 My [Resume](https://raw.githubusercontent.com/trepichio/trepichio/master/assets/resume.pdf)
-* 📫 How to reach me: trepichio@gmail.com
+* 📫 How to reach me: [trepichio@gmail.com](mailto:trepichio@gmail.com)
 * ⚡ Fun fact: I use tabs over spaces
 
 # 💡 Goals for 2020
