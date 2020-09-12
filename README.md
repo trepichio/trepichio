@@ -40,7 +40,7 @@
 * 👯 Willing  to work on free-lance projects and collaborate on building open source projects. I also look forward for a job.
 * 📌 Interests: DDD, TDD, Design and Architecture Patterns, UX, UI Design, Microservices
 * 💬 Ask me about web development, and tech related technologies.
-* 📝 My [Resume](./assets/resume.pdf)
+* 📝 My [Resume](https://raw.githubusercontent.com/trepichio/trepichio/master/assets/resume.pdf)
 * 📫 How to reach me: trepichio@gmail.com
 * ⚡ Fun fact: I use tabs over spaces
 
