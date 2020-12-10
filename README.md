@@ -48,8 +48,8 @@
 * Build 10+ projects
 * Become skilled in JavaScript (Frontend, Backend and Testing)
 * Complete coding two bootcamps by September 2020
-  - Fullstack Banco Carrefour by Digital Innovation One - **done!**
-  - NodeJS Web Developer by Digital Innovation One - **in progress**
+  - Fullstack Banco Carrefour by Digital Innovation One - ✔️**done!**
+  - NodeJS Web Developer by Digital Innovation One - ✔️**done!**
 
 </div>
 
@@ -92,6 +92,10 @@ Connect with me <br>
 min-width: 250px;
 justify-content: space-evenly; align-content: space-evenly; box-sizing:border-box;">
 
+
+  <a style="padding: 0.5rem;" href="https://github.com/trepichio/DIOBootcampNodejs-Desafios">
+    <img style="flex:0.3" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trepichio&repo=DIOBootcampNodejs-Desafios" />
+  </a>
 
   <a style="padding: 0.5rem;" href="https://github.com/trepichio/kit-builder-app">
     <img style="flex:0.3" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trepichio&repo=kit-builder-app" />
