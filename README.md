@@ -48,8 +48,8 @@
 * Build 10+ projects
 * Become skilled in JavaScript (Frontend, Backend and Testing)
 * Complete coding two bootcamps by September 2020
-  - Fullstack Banco Carrefour by Digital Innovation One - ✔️**done!**
-  - NodeJS Web Developer by Digital Innovation One - ✔️**done!**
+  - [Fullstack Banco Carrefour by Digital Innovation One](https://certificates.digitalinnovation.one/CEF2EC51) - ✔️**done!**
+  - [NodeJS Web Developer by Digital Innovation One](https://certificates.digitalinnovation.one/48CEDE47) - ✔️**done!**
 
 </div>
 
