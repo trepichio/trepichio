@@ -29,28 +29,44 @@
   Steadily growing into Fullstack development and recently into VueJS, Typescript, NodeJS and PHP/Laravel.
 </div>
 
-### A little bit more
+### ➕ A little bit more
+
+My first contact with code was when I created my first website during the *golden age of GeoCities* using *Microsoft Frontpage*. I always loved gaming, computer, internet and other nerdy stuff and I've decided dedicate to code after I've earned my Bachelors in Computer Science in 2007.
+
+I'm very passionate about new tech and all things releated.
 
 * 🔭 Currently working on improving my web skill set.
-* 💼 Have a Bachelor's degree in Computer Science since 2007;
 * 📚 Currently reading Clean Architecture, Robert C. Martin
-* 🌐 Learning more about Cloud Architecture, Systems Design and Testing Development-Driven
+* 🌐 Currently learning more about Cloud Architecture, Systems Design and Testing Development-Driven
+* 🌱 Currently learning more about Design Patterns, Typescript, Docker containers.
 * 🤔 Exploring new technologies and developing software solutions and quick hacks.
-* 🌱 Currently learning more about Typescript, C#, .NET Core, Angular, Python, Django and Docker containers.
-* 👯 Willing  to work on free-lance projects and collaborate on building open source projects. I also look forward for a job.
-* 📌 Interests: DDD, TDD, Design and Architecture Patterns, UX, UI Design, Microservices
+* 💼 Have a Bachelor's degree in Computer Science since 2007;
+* 👯 Willing  to work on free-lance projects and collaborate on building open source projects. I am also available for a job.
+* 📌 Interests: DDD, TDD, Design and Architecture Patterns, UX and UI Design, Microservices
 * 💬 Ask me about web development, and tech related technologies.
-* 📝 My [Resume](https://raw.githubusercontent.com/trepichio/trepichio/master/assets/resume.pdf)
-* 📫 How to reach me: [trepichio@gmail.com](mailto:trepichio@gmail.com)
 * ⚡ Fun fact: I use tabs over spaces
 
-# 💡 Goals for 2020
-* Build 10+ projects
-* Become skilled in JavaScript (Frontend, Backend and Testing)
-* Complete coding two bootcamps by September 2020
+# 📧 Contact
+* 📝 My [Resume](https://raw.githubusercontent.com/trepichio/trepichio/master/assets/resume.pdf) and [My LinkedIn Profile](https://linkedin.com/in/trepichio)
+* 📫 How to reach me: [trepichio@gmail.com](mailto:trepichio@gmail.com)
+
+
+# 🏆️ Achievements in 2020
+* Completed two coding bootcamps by September 2020 - (see certificate links below)
   - [Fullstack Banco Carrefour by Digital Innovation One](https://certificates.digitalinnovation.one/CEF2EC51) - ✔️**done!**
   - [NodeJS Web Developer by Digital Innovation One](https://certificates.digitalinnovation.one/48CEDE47) - ✔️**done!**
+* Colaborated with DIO community in Discord mentoring some fellow members how to code, logic basics and [solve some coding challenges](https://github.com/trepichio/DIOBootcampNodejs-Desafios).
+* Learned PHP and Laravel 7 and built a Vue Web App (decoupled Frontend and Backend) using Service-Repository Pattern) demanded by employer at the time.
+* Built 2 side-projects for optimize support team's work at company I worked at that time:
+  * Learned [AutoIt](https://www.autoitscript.com/site/) language and built a useful [Testing tool](https://github.com/trepichio/AUTOIT-FRENTE-LANCA-TOUCH/tree/master/media) for employer's Delphi software.
+  * Built a [web tool to build and deploy customized installs of employer's software product](https://github.com/trepichio/kit-builder-app) based on NodeJS, Express, VueJS, Firebase, Message Queue, REST API.
 
+# 💡 Goals for 2021
+* Build a few projects
+* Become skilled in JavaScript Design Patterns, Typescript, Software Architecture and Testing Driven-Development
+* Start a new side-project
+* Learn Vue 3
+* Learn Electron
 </div>
 
 
@@ -63,7 +79,7 @@
 
 ## Other technologies
 
-<p align="left" style="min-width: 300px"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/autoit-logo.svg" alt="autoit" width="40" height="40"/></p>
+<p align="left" style="min-width: 300px"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/><img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/git-plain-wordmark.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/github-original.svg" alt="github" width="40" height="40"/> <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/bash-original.svg" alt="bash" width="40" height="40"/> <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/csharp-plain.svg" alt="csharp" width="40" height="40"/> <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/css3-plain-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/django-plain.svg" alt="django" width="40" height="40"/> <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/dot-net-plain-wordmark.svg" alt="dotnet" width="40" height="40"/> <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/nodejs-plain-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/php-plain.svg" alt="php" width="40" height="40"/> <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/postgresql-plain-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/icons/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/autoit-logo.svg" alt="autoit" width="40" height="40"/></p>
 
 </div>
 
