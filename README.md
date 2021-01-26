@@ -55,7 +55,7 @@ I'm very passionate about new tech and all things releated.
 * Completed two coding bootcamps by September 2020 - (see certificate links below)
   - [Fullstack Banco Carrefour by Digital Innovation One](https://certificates.digitalinnovation.one/CEF2EC51) - ✔️**done!**
   - [NodeJS Web Developer by Digital Innovation One](https://certificates.digitalinnovation.one/48CEDE47) - ✔️**done!**
-* Colaborated with DIO community in Discord mentoring some fellow members how to code, logic basics and [solve some coding challenges](https://github.com/trepichio/DIOBootcampNodejs-Desafios).
+* Contributed with DIO community in Discord mentoring some fellow members how to code, logic basics and [solve some coding challenges](https://github.com/trepichio/DIOBootcampNodejs-Desafios).
 * Learned PHP and Laravel 7 and built a Vue Web App (decoupled Frontend and Backend) using Service-Repository Pattern) demanded by employer at the time.
 * Built 2 side-projects for optimize support team's work at company I worked at that time:
   * Learned [AutoIt](https://www.autoitscript.com/site/) language and built a useful [Testing tool](https://github.com/trepichio/AUTOIT-FRENTE-LANCA-TOUCH/tree/master/media) for employer's Delphi software.
@@ -83,11 +83,22 @@ I'm very passionate about new tech and all things releated.
 
 </div>
 
+## 📈 Github Stats
+
 <p align="center">
-    <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trepichio&layout=compact&hide=html&hide_border=true" alt="trepichio" />
-    <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api?username=trepichio&show_icons=true&hide_border=true" alt="trepichio" /></p>
+  <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api?username=trepichio&show_icons=true&hide_border=true" alt="trepichio" />
+  <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trepichio&layout=compact&hide=html&hide_border=true" alt="trepichio" />
 </p>
 
+  **Note:** *The Most Used Languages chart* is only a metric of which languages my public code on GitHub consists of and does not necessarily reflect my experience or skill level.
+
+## 🔥 My contribution streak
+
+<p align="center">
+  <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=trepichio#version3" alt=" Streak stats of Trepichio" />
+</p>
+
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/trepichio?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 
 <p align="center">
