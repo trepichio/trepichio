@@ -12,7 +12,6 @@
 # 👨🏻‍💻 About me
 
 **💻 full stack developer @Independent | You can hire me.**
-
 <div>
     <img align="right" width="50%" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" alt="fullstack developer animated image"/>
 
@@ -84,6 +83,8 @@ I'm very passionate about new tech and all things releated.
 </div>
 
 ## 📈 Github Stats
+
+ <img width="100%" style="padding: 0.3rem" align="center" src="https://github-profile-trophy.vercel.app/?username=trepichio&theme=oldie&no-frame=false&margin-w=30&margin-h=20&column=7&no-bg=false" alt="trepichio's GitHub Trophies" />
 
 <p align="center">
   <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api?username=trepichio&show_icons=true&hide_border=true" alt="trepichio" />
