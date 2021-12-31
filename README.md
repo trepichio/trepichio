@@ -11,9 +11,14 @@
 
 # 👨🏻‍💻 About me
 
-**💻 full stack developer @Independent | You can hire me.**
+**💻 Backend Developer @SOMOS EDUCAÇÃO**
+
 <div>
-    <img align="right" width="50%" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" alt="fullstack developer animated image"/>
+
+  <img width="100%" style="padding: 0.3rem" align="center" src="https://github-profile-trophy.vercel.app/?username=trepichio&theme=oldie&no-frame=false&margin-w=30&margin-h=20&column=7&no-bg=false" alt="trepichio's GitHub Trophies" />
+  <hr />
+
+  <img align="right" width="50%" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" alt="fullstack developer animated image"/>
 
   Fast learner and eager to explore new technologies.
 
@@ -46,7 +51,8 @@ I'm very passionate about new tech and all things releated.
 * ⚡ Fun fact: I use tabs over spaces
 
 # 📧 Contact
-* 📝 My [Resume](https://raw.githubusercontent.com/trepichio/trepichio/master/assets/resume.pdf) and [My LinkedIn Profile](https://linkedin.com/in/trepichio)
+* 📝 My **Resume** in [English](https://raw.githubusercontent.com/trepichio/trepichio/master/assets/resume-english.pdf) or [Brazilian Portuguese](https://raw.githubusercontent.com/trepichio/trepichio/master/assets/resume-portuguese.pdf)
+* 🖥️ My [LinkedIn](https://linkedin.com/in/trepichio) Profile
 * 📫 How to reach me: [trepichio@gmail.com](mailto:trepichio@gmail.com)
 
 
@@ -60,14 +66,19 @@ I'm very passionate about new tech and all things releated.
   * Learned [AutoIt](https://www.autoitscript.com/site/) language and built a useful [Testing tool](https://github.com/trepichio/AUTOIT-FRENTE-LANCA-TOUCH/tree/master/media) for employer's Delphi software.
   * Built a [web tool to build and deploy customized installs of employer's software product](https://github.com/trepichio/kit-builder-app) based on NodeJS, Express, VueJS, Firebase, Message Queue, REST API.
 
-# 💡 Goals for 2021
-* Build a few projects
-* Become skilled in JavaScript Design Patterns, Typescript, Software Architecture and Testing Driven-Development
-* Start a new side-project
-* Learn Vue 3
-* Learn Electron
-</div>
+# 🏆️ Achievements in 2021
+* Built a few projects with [VueJS](https://vuejs.org/), [NestJS](https://www.nestjs.com) and [Typescript](https://www.typescriptlang.org/)
+* Practiced a few JavaScript Design Patterns
+* Earned [freeCodeCamp's Responsive Web Design Certification (300h)](https://www.freecodecamp.org/certification/trepichio/responsive-web-design)
+* Earned [freeCodeCamp's JavaScript Algorithms and Data Structures Certification (300h)](https://www.freecodecamp.org/certification/trepichio/javascript-algorithms-and-data-structures)
+<!-- * Earned [freeCodeCamp's Frontend Libraries Certification (300h)]() -->
 
+# 🚀 Goals in 2022
+* Learn CI/CD tools such as GitHub Actions and Kubernetes
+* Learn Elixir
+* Learn Vue 3
+* Earn new certificates
+* Become skilled in JavaScript Design Patterns, Typescript, Software Architecture and Testing Driven-Development
 
 ## My Tech Stacks
 
@@ -83,8 +94,6 @@ I'm very passionate about new tech and all things releated.
 </div>
 
 ## 📈 Github Stats
-
- <img width="100%" style="padding: 0.3rem" align="center" src="https://github-profile-trophy.vercel.app/?username=trepichio&theme=oldie&no-frame=false&margin-w=30&margin-h=20&column=7&no-bg=false" alt="trepichio's GitHub Trophies" />
 
 <p align="center">
   <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api?username=trepichio&show_icons=true&hide_border=true" alt="trepichio" />
