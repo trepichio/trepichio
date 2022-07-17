@@ -164,6 +164,10 @@ justify-content: space-evenly; align-content: space-evenly; box-sizing:border-bo
   <a style="padding: 0.5rem;" href="https://github.com/trepichio/vue_meal_prep">
     <img style="flex:0.3" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trepichio&repo=vue_meal_prep" />
   </a>
+  <a style="padding: 0.5rem;" href="https://github.com/trepichio/JS-Design-Patterns">
+    <img style="flex:0.3" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trepichio&repo=JS-Design-Patterns" />
+  </a>
+
   <a style="padding: 0.5rem;" href="https://github.com/trepichio/adopt-pets">
     <img style="flex:0.3" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trepichio&repo=adopt-pets" />
   </a>
