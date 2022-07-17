@@ -138,6 +138,10 @@ justify-content: space-evenly; align-content: space-evenly; box-sizing:border-bo
     <img style="flex:0.3" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trepichio&repo=Billinho" />
   </a>
 
+  <a style="padding: 0.5rem;" href="https://github.com/trepichio/ulauncher-window-switcher">
+    <img style="flex:0.3" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trepichio&repo=ulauncher-window-switcher" />
+  </a>
+
   <a style="padding: 0.5rem;" href="https://github.com/trepichio/kit-builder-app">
     <img style="flex:0.3" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trepichio&repo=kit-builder-app" />
   </a>
